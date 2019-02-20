@@ -1,5 +1,5 @@
 "use strict";
 
 function hola() {
-	console.log('Hola');
+	console.log('Hola Hermanos');
 }
